@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64" fill="none" aria-label="LoneStar Wash &amp; Fold Logo">
+  <!-- Icon Mark -->
+  <g transform="translate(4, 6)">
+    <!-- Cyan Background Squircle -->
+    <rect x="0" y="0" width="52" height="52" rx="16" fill="url(#cyanGrad)" />
+    <!-- Droplet / Star Motif -->
+    <path d="M26 12L28.8 20.8H38L30.6 26.2L33.4 35L26 29.6L18.6 35L21.4 26.2L14 20.8H23.2L26 12Z" fill="#FFFFFF" />
+    <!-- Fresh Wave Swoosh -->
+    <path d="M12 38C16 34 22 34 26 38C30 42 36 42 40 38" stroke="#E0F7FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <!-- Brand Typography -->
+  <text x="68" y="34" font-family="'Outfit', sans-serif" font-weight="800" font-size="22" fill="#0F172A" letter-spacing="-0.02em">LoneStar</text>
+  <text x="178" y="34" font-family="'Outfit', sans-serif" font-weight="600" font-size="22" fill="#0891B2" letter-spacing="-0.02em">Wash &amp; Fold</text>
+  <!-- Subtitle -->
+  <text x="69" y="50" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="9.5" fill="#64748B" letter-spacing="0.08em">AUSTIN DOORSTEP LAUNDRY CO.</text>
+  <!-- Linear Gradient for Icon -->
+  <defs>
+    <linearGradient id="cyanGrad" x1="0" y1="0" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" />
+      <stop offset="1" stop-color="#0891B2" />
+    </linearGradient>
+  </defs>
+</svg>
